@@ -283,7 +283,7 @@ ALSO = [
     "PRIME EDITING MATURES",
     "MRI MAPS PEAT MOSS TIPS",
     "BANGLADESH PLANS NEW SMES",
-    "GOLD RISES TO $3,604",
+    "GOLD RISES TO $3,604 AM",
     "HERBERT CONCUSSION CHECK",
     "BRONCOS BEAT RAIDERS 38-24",
     "GAZA STRIKE KILLS 3",
@@ -405,7 +405,7 @@ def render():
     fill_rect(12, 960, W - 24, 2, GOLD)
     text_center("S&P 500 7,237.17 +4.73%   NASDAQ 24,089.56 +6.51%   DOW 49,595.31 +3.01%",
                 966, scale=2, c=INK, spacing=1)
-    text_center("NVIDIA +31.48% $165.05   KOSPI -3.31%   GOLD $3,671.80   BRENT $89.10",
+    text_center("NVIDIA +31.48% $165.05   KOSPI -3.31% CLOSE   GOLD $3,671.80   BRENT $89.10   15:20 UTC",
                 982, scale=2, c=INK, spacing=1)
     # ---- footer
     text_center("ALL STORIES HAPPENED OR FIRST REPORTED 23 NOV 2026",

@@ -20,7 +20,9 @@ final US market closes.
 ## Markets (US close, final)
 
 S&P 500 7,237.17 (+4.73%), Nasdaq 24,089.56 (+6.51%), Dow 49,595.31 (+3.01%);
-Nvidia +31.48% to $165.05; Kospi −3.31%; gold $3,671.80; Brent $89.10.
+Nvidia +31.48% to $165.05; Kospi −3.31% (close, vs −4% at the open);
+gold $3,671.80 (15:20 UTC snapshot, vs $3,604 in the morning briefing);
+Brent $89.10 (15:20 UTC snapshot).
 
 ## How it is built
 
